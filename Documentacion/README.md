@@ -11,7 +11,7 @@
 
 | Carné | Nombre | Módulo asignado |
 |-------|--------|-----------------|
-| _______ | _______________________ | Auth & Suscripciones |
+| 202041284 | German Enrique Caál Jalal | Auth & Suscripciones |
 | _______ | _______________________ | Catálogo & Calificaciones |
 | 201612218 | Susan Pamela Herrera Monzon | FX-Service, Historial & Notificaciones |
 | _______ | _______________________ | API Gateway, Infraestructura & Arquitectura |

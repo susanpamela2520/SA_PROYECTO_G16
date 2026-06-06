@@ -1,0 +1,6 @@
+| Stakeholder                                            | Rol                                                                                                       |
+| :----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| **Usuario Final**                                      | Cliente que consume el servicio VOD y paga la suscripción recurrente.                                     |
+| **Proveedor Fx**                                       | Proveedor externo consultado para obtener tasas de cambio.                                                |
+| **Administrador**                                      | Responsable de gestionar catálogo, planes y operación de la plataforma.    credenciales.                  |
+| **Proveedor de Correo**                                | Provee servicio externo para despacho de notificaciones transaccionales.**                                |
